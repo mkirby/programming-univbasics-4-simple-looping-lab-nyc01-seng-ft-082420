@@ -19,6 +19,8 @@ def loop_message_n_times(string, n)
   end
 end
 
+loop_message_n_times("Hello", 3)
+
 #n.times do
     #puts string
   #end
