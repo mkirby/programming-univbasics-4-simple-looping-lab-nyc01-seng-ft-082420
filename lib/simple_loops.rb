@@ -12,13 +12,14 @@ def loop_message_five_times(string)
 end
 
 def loop_message_n_times(string, n)
-  
   counter = 0
   while counter <= n + 1 do
     counter += 1
     puts string
   end
-end#n.times do
+end
+
+#n.times do
     #puts string
   #end
   
